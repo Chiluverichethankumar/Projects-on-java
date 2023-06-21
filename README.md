@@ -40,31 +40,43 @@ The Calculator program allows users to perform various mathematical operations o
 Code and Outputs Photos:
 
 
+
+
 2. Projects:
 
 
 Topic of the project: Password Generator Code
       Document for the Password Generator Code:
 This document provides an overview and explanation of the code for a Password Generator program. The code is written in Java and consists of several classes that work together to generate random passwords and evaluate their strength.
+
 1.Generator Class:
+
 This class represents the main functionality of the Password Generator program.
 It contains a main method that initializes the program and starts the main loop.
 The main loop displays a menu of options and prompts the user to choose an option until they select the "Quit" option.
 Available options include generating a password, checking password strength, displaying useful information, and quitting the program.
 The class also includes methods to generate passwords, print useful information, and handle user input.
+
 2.Password Class:
+
 This class represents a password and provides methods to calculate its strength and provide a score.
 The class takes a password string as input and calculates the strength based on various criteria, such as the presence of uppercase letters, lowercase letters, numbers, and symbols.
 The PasswordStrength method calculates the score of the password based on these criteria and returns an integer value.
 The calculateScore method uses the score to provide a description of the password's strength, ranging from very good to weak.
+
 3.Alphabet Class:
+
 This class represents the character pool for generating passwords.
 It contains constant strings for uppercase letters, lowercase letters, numbers, and symbols.
 The class allows the user to customize the character pool by including or excluding different types of characters when generating passwords.
+
 4.GeneratorTest Class:
+
 This class contains JUnit tests to verify the functionality of the Generator, Password, and Alphabet classes.
 The tests validate the correctness of password creation, alphabet customization, and other functionalities.
+
 5.Main Class:
+
 •	This class serves as the entry point of the program.
 •	It creates an instance of the Generator class and starts the main loop.
 
