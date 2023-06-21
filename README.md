@@ -2,49 +2,52 @@
 
 1 Projects:
 
-Topic of the project: Calculator
-  Documentation:
-Calculator:
-The Calculator program is designed to perform a variety of mathematical operations based on user input. It utilizes the Scanner class to read user input from the console.
-User Input:
-1.	The program prompts the user to enter the first number.
-2.	The user enters a numeric value, which is stored in the variable num1.
-3.	The program prompts the user to enter the second number.
-4.	The user enters a numeric value, which is stored in the variable num2.
-5.	The program displays a menu of available operations.
-Available Operations:
-1.	Addition (+): Adds num1 and num2 and displays the result.
-2.	Subtraction (-): Subtracts num2 from num1 and displays the result.
-3.	Multiplication (*): Multiplies num1 and num2 and displays the result.
-4.	Division (/): Divides num1 by num2 and displays the result. If num2 is zero, it displays an error message.
-5.	Modulo (%): Computes the remainder of num1 divided by num2 and displays the result. If num2 is zero, it displays an error message.
-6.	Square root of the first number (√): Calculates the square root of num1 and displays the result.
-7.	Square of the first number (^2): Computes the square of num1 and displays the result.
-8.	Cube of the first number (^3): Computes the cube of num1 and displays the result.
-9.	Raise the first number to the power of the second number (a^b): Calculates num1 raised to the power of num2 and displays the result.
-10.	Calculate the average of the two numbers: Computes the average of num1 and num2 and displays the result.
-11.	Log Value: Calculates the natural logarithm of num1 and displays the result.
-12.	Exponential Logarithm: Computes various trigonometric values for num1 and displays the results.
-Trigonometric Values:
-If the user selects option 12 (Exponential Logarithm), the program calculates and displays the following trigonometric values for num1:
-•	Sine
-•	Cosine
-•	Tangent
-•	Cotangent
-•	Secant
-•	Cosecant
-Output:
-After performing the selected operation, the program displays the result or any error messages that may occur.
-Summary:
-The Calculator program allows users to perform various mathematical operations on two input numbers. It supports basic arithmetic operations, square roots, powers, logarithms, and trigonometric calculations. It provides a menu-based interface and utilizes the Scanner class for user input. The program displays the calculated results or appropriate error messages based on the user's choices.
-Code and Outputs Photos:
+  #  Topic of the project: Calculator
+      Documentation:
+    Calculator:
+    The Calculator program is designed to perform a variety of mathematical operations based on user input. It utilizes the Scanner class to read 
+    user input from the console.
+    User Input:
+    1.	The program prompts the user to enter the first number.
+    2.	The user enters a numeric value, which is stored in the variable num1.
+    3.	The program prompts the user to enter the second number.
+    4.	The user enters a numeric value, which is stored in the variable num2.
+    5.	The program displays a menu of available operations.
+    Available Operations:
+    1.	Addition (+): Adds num1 and num2 and displays the result.
+    2.	Subtraction (-): Subtracts num2 from num1 and displays the result.
+    3.	Multiplication (*): Multiplies num1 and num2 and displays the result.
+    4.	Division (/): Divides num1 by num2 and displays the result. If num2 is zero, it displays an error message.
+    5.	Modulo (%): Computes the remainder of num1 divided by num2 and displays the result. If num2 is zero, it displays an error message.
+    6.	Square root of the first number (√): Calculates the square root of num1 and displays the result.
+    7.	Square of the first number (^2): Computes the square of num1 and displays the result.
+    8.	Cube of the first number (^3): Computes the cube of num1 and displays the result.
+    9.	Raise the first number to the power of the second number (a^b): Calculates num1 raised to the power of num2 and displays the result.
+    10.	Calculate the average of the two numbers: Computes the average of num1 and num2 and displays the result.
+    11.	Log Value: Calculates the natural logarithm of num1 and displays the result.
+    12.	Exponential Logarithm: Computes various trigonometric values for num1 and displays the results.
+    Trigonometric Values:
+    If the user selects option 12 (Exponential Logarithm), the program calculates and displays the following trigonometric values for num1:
+    •	Sine
+    •	Cosine
+    •	Tangent
+    •	Cotangent
+    •	Secant
+    •	Cosecant
+    Output:
+    After performing the selected operation, the program displays the result or any error messages that may occur.
+    Summary:
+    The Calculator program allows users to perform various mathematical operations on two input numbers. It supports basic arithmetic operations, 
+    square roots, powers, logarithms, and trigonometric calculations. It provides a menu-based interface and utilizes the Scanner class for user 
+    input. The program displays the calculated results or appropriate error messages based on the user's choices.
+    Code and Outputs Photos:
 
 
 
 2. Projects:
 
 
-Topic of the project: Password Generator Code
+ #Topic of the project: Password Generator Code
 
       Document for the Password Generator Code:
       
