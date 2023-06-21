@@ -41,12 +41,13 @@ Code and Outputs Photos:
 
 
 
-
 2. Projects:
 
 
 Topic of the project: Password Generator Code
+
       Document for the Password Generator Code:
+      
 This document provides an overview and explanation of the code for a Password Generator program. The code is written in Java and consists of several classes that work together to generate random passwords and evaluate their strength.
 
 1.Generator Class:
