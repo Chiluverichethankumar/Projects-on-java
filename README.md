@@ -87,3 +87,6 @@ The tests validate the correctness of password creation, alphabet customization,
 
 Overall, the Password Generator program provides a user-friendly interface to generate random passwords based on user preferences and evaluate their strength. It follows password security best practices by encouraging the use of a variety of character types and avoiding common password pitfalls. The code is modular and well-structured, allowing for easy maintenance and extensibility.
 
+![image](https://github.com/Chiluverichethankumar/Projects-on-java/assets/132481430/9aaadd34-77c1-4e6f-8ae6-ba163a12d558)
+
+
